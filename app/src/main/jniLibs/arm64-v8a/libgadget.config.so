@@ -1,0 +1,9 @@
+{
+  "interaction": {
+    "type": "script",
+    "path": "/sdcard/Android/data/dev.gadgetloader.app/files/gadget/main.js",
+    "on_change": "reload"
+  },
+  "runtime": "qjs",
+  "teardown": "minimal"
+}
